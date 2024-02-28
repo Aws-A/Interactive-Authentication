@@ -1,0 +1,193 @@
+      body {
+        margin: 40px;
+      }
+      #allPuzzle {
+        z-index: -1;
+        margin-top: 150px;
+      }
+      #form {
+        position: absolute;
+        z-index: 1;
+        margin-top: 180px;
+        margin-left: 200px;
+        font-weight: bold;
+      }
+      img {
+        position: absolute;
+      }
+      .pz {
+        filter: grayscale(100%);
+      }
+      #pz1 {
+        margin-top: -63px;
+        margin-left: 22px;
+      }
+      #pz2 {
+        margin-top: -46px;
+        margin-left: 162px;
+      }
+      #pz3 {
+        margin-top: -38px;
+        margin-left: 270px;
+      }
+      #pz4 {
+        margin-top: -100px;
+        margin-left: 420px;
+      }
+      #pz5 {
+        margin-top: -50px;
+        margin-left: 551px;
+      }
+      #pz6 {
+        margin-top: 58px;
+        margin-left: 4px;
+      }
+      #pz7 {
+        margin-top: 58px;
+        margin-left: 146px;
+      }
+      #pz8 {
+        margin-top: 58px;
+        margin-left: 275px;
+      }
+      #pz9 {
+        margin-top: 58px;
+        margin-left: 337px;
+      }
+      #pz10 {
+        margin-top: 60px;
+        margin-left: 580px;
+      }
+      #pz11 {
+        margin-top: 134px;
+        margin-left: -27px;
+      }
+      #pz12 {
+        margin-top: 83px;
+        margin-left: 145px;
+      }
+      #pz13 {
+        margin-top: 97px;
+        margin-left: 276px;
+      }
+      #pz14 {
+        margin-top: 97px;
+        margin-left: 372px;
+      }
+      #pz15 {
+        margin-top: 122px;
+        margin-left: 592px;
+      }
+      #pz16 {
+        margin-top: 176px;
+        margin-left: 83px;
+      }
+      #pz17 {
+        margin-top: 140px;
+        margin-left: 145px;
+      }
+      #pz18 {
+        margin-top: 152px;
+        margin-left: 277px;
+      }
+      #pz19 {
+        margin-top: 185px;
+        margin-left: 372px;
+      }
+      #pz20 {
+        margin-top: 178px;
+        margin-left: 468px;
+      }
+      #pz21 {
+        margin-top: 201px;
+        margin-left: 83px;
+      }
+      #pz22 {
+        margin-top: 204px;
+        margin-left: 146px;
+      }
+      #pz23 {
+        margin-top: 207px;
+        margin-left: 277px;
+      }
+      #pz24 {
+        margin-top: 206px;
+        margin-left: 372px;
+      }
+      #pz25 {
+        margin-top: 202px;
+        margin-left: 468px;
+      }
+      #pz26 {
+        margin-top: 322px;
+        margin-left: -12px;
+      }
+      #pz27 {
+        margin-top: 260px;
+        margin-left: 146px;
+      }
+      #pz28 {
+        margin-top: 259px;
+        margin-left: 243px;
+      }
+      #pz29 {
+        margin-top: 259px;
+        margin-left: 373px;
+      }
+      #pz30 {
+        margin-top: 293px;
+        margin-left: 468px;
+      }
+      #pz31 {
+        margin-top: 396px;
+        margin-left: 3px;
+      }
+      #pz32 {
+        margin-top: 393px;
+        margin-left: 161px;
+      }
+      #pz33 {
+        margin-top: 427px;
+        margin-left: 243px;
+      }
+      #pz34 {
+        margin-top: 407px;
+        margin-left: 429px;
+      }
+      #pz35 {
+        margin-top: 346px;
+        margin-left: 573px;
+      }
+      i {
+      margin-left: -40px; 
+      cursor: pointer;
+      }
+      #enter {
+        box-shadow: 0 0 30px rgba(255, 234, 2);
+      }
+      #confirm {
+        box-shadow: 0 0 30px rgba(255, 234, 2);
+      }
+      .pass {
+        height: 30px;
+        width: 222px;
+        margin: 10px;
+        padding-left: 10px;
+        border: 2px solid black;
+        border-radius: 5px;
+        color: rgb(0, 0, 0);
+        background-color: rgba(255, 255, 255, 0.75) ;
+      }
+      .pass::placeholder {
+        color: rgb(85, 84, 84);
+      }
+      .show {
+        width: 477px;
+        height: 20px;
+        margin: 1px 10px 1px -115px;
+        padding-left: 127px;
+        border: none;
+        font-size: 17px;
+        font-weight: 600;
+        background-color: rgba(255, 255, 255, 0.75) 
+      }
